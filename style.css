@@ -51,7 +51,7 @@
 }
 
 .tasks-list {
-    margin:0;
+    margin: 0;
     padding: 0px;
 }
 
@@ -63,7 +63,7 @@
     width: 60px;
     font-family: Lato, sans-serif;
     cursor: pointer;
-    outline:none;
+    outline: none;
 }
 
 .button:hover {
@@ -105,7 +105,7 @@
 /* Task list */
 
 .task-string {
-    list-style:none;
+    list-style: none;
     overflow: hidden;
     padding: 20px 0;
     border-bottom: 1px solid #eee;
@@ -146,14 +146,14 @@
 /* Edit Task */
 
 .tasks-list .input-text {
-    display:none
+    display: none
 }
 
 .task-string_mode_edit .input-text {
-    display:inline-block;
-    width:224px
+    display: inline-block;
+    width: 224px
 }
 
 .task-string_mode_edit .task-text {
-    display:none;
+    display: none;
 }
