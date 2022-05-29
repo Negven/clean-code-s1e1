@@ -38,7 +38,7 @@
 .task__content {
     width: 56%;
     display: inline-block;
-    flex-grow: 1
+    flex-grow: 1;
 }
 
 .todo {
@@ -146,12 +146,12 @@
 /* Edit Task */
 
 .tasks-list .input-text {
-    display: none
+    display: none;
 }
 
 .task-string_mode_edit .input-text {
     display: inline-block;
-    width: 224px
+    width: 224px;
 }
 
 .task-string_mode_edit .task-text {
